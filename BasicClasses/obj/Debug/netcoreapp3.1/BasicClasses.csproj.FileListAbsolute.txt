@@ -1,0 +1,13 @@
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.exe
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.deps.json
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.runtimeconfig.json
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.runtimeconfig.dev.json
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.dll
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\bin\Debug\netcoreapp3.1\BasicClasses.pdb
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.csproj.AssemblyReference.cache
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.AssemblyInfoInputs.cache
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.AssemblyInfo.cs
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.csproj.CoreCompileInputs.cache
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.dll
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.pdb
+C:\Users\tjvin\Desktop\repos\BasicClasses\BasicClasses\obj\Debug\netcoreapp3.1\BasicClasses.genruntimeconfig.cache
